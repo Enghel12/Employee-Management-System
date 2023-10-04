@@ -1,0 +1,13 @@
+This is the final list of records, after all modifications: 
+ID: 2
+Name: Jakeu
+Age: 25
+Salary: 16000
+Current position: lalal
+
+ID: 1
+Name: Enghel
+Age: 25
+Salary: 4000
+Current position: ceo
+

@@ -7,5 +7,5 @@
 	deserves a promotion
 	4.Use sorting algorithms to give the user the chance to change the order of the employees
 	records 
-	5.It also relies on user interface and file handling, OOP, and pointers and dinamic memory allocation
+	5.It also relies on user interface and file handling, OOP, and pointers and dynamic memory allocation
 	*/
